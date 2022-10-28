@@ -62,7 +62,7 @@ main.magamrol > div{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: purple;
+    background-color: rgba(77, 26, 143, 0.88);
     min-height: 60vh;
     border-radius: 8px 0 0 8px;
 }
